@@ -1,0 +1,6 @@
+declare module 'vue-virtual-scroller'
+declare module 'vue-infinite-scroll'
+declare module 'vue-clipboard2'
+declare module 'vue-highlightjs'
+declare module 'vue-echarts'
+declare module 'vxe-table'
